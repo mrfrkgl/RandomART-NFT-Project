@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#canvas1{
+    background-color: rgb(0, 0, 0);
+    position: center;
+    left: 0;
+    top: 0;
+}
+#controls {
+    position: absolute;
+    padding: 10px;
+    border: 2px solid Iwhite;
+    left: 20px;
+    top: 20px;
+    width: 250px;
+    background: rgba(94, 94, 94, 0.23)
+}
+button {
+    padding: 10px 40px;
+    width: 225px;
+    font-size: 20px;
+}
+label,input {
+    color: white;
+    font-size: 15px;
+}
+
+.den{
+    background-color:black;
+}
