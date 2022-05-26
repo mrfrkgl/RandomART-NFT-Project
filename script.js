@@ -56,10 +56,10 @@ window.addEventListener('load', function(){
             drawBranch(level + 1);
             ctx.restore();
 
-            /*ctx.save();
+            ctx.save();
             ctx.rotate(-spread);
             drawBranch(level + 1);
-            ctx.restore();*/
+            ctx.restore();
 
             ctx.restore();
         }   
